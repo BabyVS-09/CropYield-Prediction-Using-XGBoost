@@ -1,0 +1,6 @@
+{
+  "name": "CropYield AI",
+  "description": "An XGBoost-based predictive framework and universal agricultural analytics platform for crop yield estimation and multi-source dataset intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
